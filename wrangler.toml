@@ -1,0 +1,9 @@
+name = "svelte-test"
+type = "webpack"
+route = ''
+zone_id = ''
+account_id= 'eeb9a4463056494c7af3e3e91cb6f66c'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "./workers-site"}
